@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SkeletonApp</string>
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_search">Search</string>
+    <string name="bottom_nav_info">Info</string>
+    <string name="first_hello">Hello from First Fragment!</string>
+    <string name="second_hello">Hello from Second Fragment</string>
+    <string name="third_hello">Hello from Third Fragment</string>
+    <string name="bottom_nav_name_first">first</string>
+    <string name="bottom_nav_name_second">second</string>
+    <string name="bottom_nav_name_third">third</string>
+</resources>

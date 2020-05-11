@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/first"
+        android:icon="@drawable/ic_filter_1"
+        android:contentDescription="@string/bottom_nav_name_first"
+        android:title="@string/bottom_nav_name_first" />
+    <item
+        android:id="@+id/second"
+        android:icon="@drawable/ic_filter_2"
+        android:contentDescription="@string/bottom_nav_name_second"
+        android:title="@string/bottom_nav_name_second" />
+    <item
+        android:id="@+id/third"
+        android:icon="@drawable/ic_filter_3"
+        android:contentDescription="@string/bottom_nav_name_third"
+        android:title="@string/bottom_nav_name_third" />
+</menu>

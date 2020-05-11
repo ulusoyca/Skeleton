@@ -1,0 +1,26 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/first">
+
+    <fragment
+        android:id="@+id/first"
+        android:name="com.ulusoy.skeletonapp.main.first.FirstFragment"
+        android:label="fragmentFirst"
+        tools:layout="@layout/fragment_first">
+    </fragment>
+
+    <fragment
+        android:id="@+id/second"
+        android:name="com.ulusoy.skeletonapp.main.second.SecondFragment"
+        android:label="fragmentSecond"
+        tools:layout="@layout/fragment_second">
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/third"
+        android:name="com.ulusoy.skeletonapp.main.third.ThirdFragment"
+        android:label="fragmentThird"
+        tools:layout="@layout/fragment_third"/>
+</navigation>
